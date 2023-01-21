@@ -1,0 +1,22 @@
+table {
+    margin-top: 50px;
+   border: 1px solid grey;
+   border-collapse: collapse;
+   width: 100%;
+}
+
+td {
+    border: 1px solid grey;
+    width: 50px;
+    text-align: center;
+ }
+ 
+ .firstLine {
+    border: 1px solid grey;
+    font-weight: bold;
+    text-align: center;
+    background-color: gainsboro;
+ }
+ caption {
+    color: blue;
+ }
